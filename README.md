@@ -16,6 +16,13 @@
 <img width="804" height="904" alt="Image" src="https://github.com/user-attachments/assets/ca96676e-53b4-4571-b03e-fbe30bcbd710" />
 
 7. Preencha as informações
-  
+  <img width="805" height="705" alt="Image" src="https://github.com/user-attachments/assets/7f2fe93d-2f45-490e-a463-d6884942ace5" />
 
-8. 
+<img width="823" height="731" alt="Image" src="https://github.com/user-attachments/assets/98c4c469-324c-4f2a-809b-7b4b4b8887b7" />
+
+
+
+8. Clique em, _Next: Workspace_
+  <img width="815" height="686" alt="Image" src="https://github.com/user-attachments/assets/c2359644-1198-4052-8574-b7cf13830636" />
+
+9. 
