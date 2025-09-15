@@ -23,6 +23,8 @@
 <img width="815" height="686" alt="Image" src="https://github.com/user-attachments/assets/c2359644-1198-4052-8574-b7cf13830636" />
 
 8. Clique em, _Review + Create_
-  
 
-9. 
+   <img width="471" height="63" alt="Image" src="https://github.com/user-attachments/assets/fa071c93-6983-49ae-b23b-83a9dcdbe2e4" />
+
+9. Após a validação clicar em _Create_
+
