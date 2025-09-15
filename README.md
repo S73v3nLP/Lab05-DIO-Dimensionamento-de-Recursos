@@ -20,9 +20,9 @@
 
 <img width="823" height="731" alt="Image" src="https://github.com/user-attachments/assets/98c4c469-324c-4f2a-809b-7b4b4b8887b7" />
 
+<img width="815" height="686" alt="Image" src="https://github.com/user-attachments/assets/c2359644-1198-4052-8574-b7cf13830636" />
 
-
-8. Clique em, _Next: Workspace_
-  <img width="815" height="686" alt="Image" src="https://github.com/user-attachments/assets/c2359644-1198-4052-8574-b7cf13830636" />
+8. Clique em, _Review + Create_
+  
 
 9. 
